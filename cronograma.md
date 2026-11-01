@@ -1,18 +1,18 @@
 # Cronograma de estudos — 30 dias
 
 **Área principal:** Desenvolvimento de software e automação  
-**Objetivo complementar:** preparação para o processo seletivo iFood GenAI 2027  
+**Objetivo complementar:** fortalecimento da base técnica e construção de portfólio  
 **Disponibilidade-base:** cerca de 1 hora por dia
 
-Este cronograma combina a trilha de programação do IFRS, os bootcamps da DIO, Inglês, preparação para o iFood e prática no GitHub. A proposta é variar os conteúdos durante a semana para manter a constância sem estudar muitas trilhas pesadas ao mesmo tempo.
+Este cronograma combina a trilha de programação do IFRS, os bootcamps da DIO, Inglês e prática no GitHub. A proposta é variar os conteúdos durante a semana para manter a constância sem estudar muitas trilhas pesadas ao mesmo tempo.
 
 ## 1. Agenda semanal fixa
 
 | Dia | Bloco principal | Segundo bloco |
 |---|---|---|
-| **Segunda** | IFRS — lógica de programação (40 min) | Preparação para o iFood (20 min) |
+| **Segunda** | IFRS — lógica de programação (40 min) | Prática de programação (20 min) |
 | **Terça** | DIO — Santander Cibersegurança (35–40 min) | Inglês (20–25 min) |
-| **Quarta** | IFRS — exercícios práticos (40 min) | Preparação para o iFood (20 min) |
+| **Quarta** | IFRS — exercícios práticos (40 min) | GitHub e projeto (20 min) |
 | **Quinta** | DIO — IA aplicada e automação (35–40 min) | Inglês (20–25 min) |
 | **Sexta** | IFRS — lógica e revisão (35–40 min) | GitHub e projeto (20–25 min) |
 | **Sábado** | DIO — bootcamp prioritário (40 min) | Inglês leve ou revisão (20 min) |
@@ -22,7 +22,7 @@ Os tempos são uma referência. Se o exercício exigir mais atenção, conclua o
 
 ### Como distribuir as atividades complementares
 
-- **Preparação para o iFood (segunda e quarta):** treinar apresentação pessoal, perguntas comportamentais, conceitos de IA e exercícios de raciocínio lógico. Quando o processo seletivo terminar, esses blocos podem virar prática de programação e projetos.
+- **Prática de programação e projetos (segunda e quarta):** reforçar lógica, resolver pequenos problemas, documentar aprendizados e evoluir projetos do portfólio.
 - **Cyber (terça):** retomar o bootcamp Santander — Cibersegurança do Zero à Prática a partir de onde parei.
 - **IA aplicada (quinta):** explorar o bootcamp AI Reports com Excel, GPT Agents e Claude Code, praticando os conceitos em pequenos exemplos.
 - **Bootcamp prioritário (sábado):** continuar a trilha principal escolhida na DIO. Evitar iniciar vários bootcamps simultaneamente.
